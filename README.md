@@ -1,1 +1,1 @@
-C Codes related to ATMEGA328P microcontroller
+C Codes related to ATMEGA2560 microcontroller
